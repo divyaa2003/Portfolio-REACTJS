@@ -1,8 +1,16 @@
-# React + Vite
+A personal portfolio website built with React.js to showcase projects, skills, and experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Interactive homepage
+- About section with bio
+- Projects section with detailed previews
+- Skills & experience showcase
+- Contact form with email integration
+- Dark/Light mode toggle
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js
+- Tailwind CSS
+- Framer Motion (for animations)
+- React Router
+- EmailJS (for contact form)
